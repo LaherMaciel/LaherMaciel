@@ -13,9 +13,10 @@ Computer Engineering Student <br>
 
 ## Projects
 
-## 42 Lisbon
-
 <details>
+  
+  ## 42 Lisbon
+
 <summary>Projects</summary>
 
 | Project | Description | Language | Status | Grade |
