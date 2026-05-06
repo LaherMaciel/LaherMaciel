@@ -38,7 +38,7 @@ Computer Engineering Student
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| LexMoz | Legal intelligence platform for Mozambique | React Native | In development |
+| LexMoz | Legal intelligence platform for Mozambique | Java, Spring Boot, PostgreSQL, React Native, Python, TypeScript, Docker | In development |
 | Brillo | Indie game — collaborative team project | Unity, C# | In development |
 
 ---
