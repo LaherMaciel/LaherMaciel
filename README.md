@@ -44,7 +44,9 @@ Computer Engineering Student
 
 ## Stack
 
-`C` `C++` `C#` `Java` `Python` `TypeScript` `React Native` `React` `Spring Boot` `PostgreSQL` `Docker` `Git` `Linux` `Make` `Unity`
+Languages: `C` `C++` `C#` `Java` `Python` `TypeScript`
+Frameworks: `React Native` `React` `Spring Boot` `Unity`
+Tools: `PostgreSQL` `Docker` `Git` `Linux`
 
 ---
 
