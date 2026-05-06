@@ -1,15 +1,54 @@
-# 💫 About Me:
-What am I working on?<br>I'm currently a student at 42 Lisbon, mainly focused on completing my 42 projects and growing my skills through hands-on, real-world programming challenges.<br><br>I'm looking to collaborate on<br>I'm open to collaborating on any project that allows me to grow as a software engineer. I don’t have a specific collaboration in mind yet, but I’m eager to learn, improve, and contribute to something meaningful, fun, or innovative.<br><br>I'm currently learning<br>I'm currently studying at 42 Lisbon, where I'm learning through an intense, peer-driven curriculum focused on problem-solving, autonomy, and real-world programming.<br>The course starts from the ground up, covering C programming, memory management, data structures, algorithms, and UNIX system programming. As I progress, I’m also exploring more advanced topics like shell scripting, network programming, and multi-threading.<br>Beyond the core curriculum, I'm also starting to explore game development with Unity and expanding into software development using Python.<br><br>Ask me about<br>You can ask me about my experience at 42 Lisbon, the projects I've worked on there, or how I'm approaching learning new technologies like Unity and Python.
+# Hi, I'm Laher
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LaherMaciel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LaherMaciel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaherMaciel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer Engineering Student
+42 Lisboa Student
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LaherMaciel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Based in Lisbon, Portugal
+- Looking for a software engineering internship
+
+---
+
+## Projects
+
+<details>
+<summary>42 Lisboa Projects</summary>
+
+| Project | Description | Language | Status | Grade |
+|---|---|---|---|---|
+| [libft](https://github.com/LaherMaciel/libft) | Custom implementation of the C standard library | C | Completed | 100% |
+| [ft_printf](https://github.com/LaherMaciel/ft_printf) | Recreation of printf with variadic functions | C | Completed | 100% |
+| [get_next_line](https://github.com/LaherMaciel/get_next_line) | Function to read a file line by line | C | Completed | 125% |
+| [Born2BeRoot] | System administration and virtualization | Shell | Completed | 100% |
+| [push_swap](https://github.com/LaherMaciel/push_swap) | Sorting algorithm using stacks | C | Completed | 123% |
+| [so_long](https://github.com/LaherMaciel/so_long) | Small 2D game using minilibx | C | Completed | 107% |
+| [pipex](https://github.com/LaherMaciel/pipex) | Unix pipe behaviour reimplementation | C | Completed | 100% |
+| [Minishell](https://github.com/LaherMaciel/Minishell) | Custom Unix shell built from scratch | C | Completed | 101% |
+| [Philosophers](https://github.com/LaherMaciel/Philosophers) | Concurrency with threads and mutexes | C | Completed | 100% |
+| [NetPractice](https://github.com/LaherMaciel/NetPractice) | Networking and subnetting exercises | — | Completed | 100% |
+| [cub3d](https://github.com/LaherMaciel/cub3d) | Raycasting 3D engine, Wolfenstein-style | C | Completed | 110% |
+| [CPP](https://github.com/LaherMaciel/CPP) | Object-oriented programming modules | C++ | Building | ...% |
+
+</details>
+
+### Personal Projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| LexMoz | Legal intelligence platform for Mozambique | React Native | In development |
+| Brillo | Indie game — collaborative team project | Unity, C# | In development |
+
+---
+
+## Stack
+
+`C` `C++` `C#` `Java` `Python` `TypeScript` `React Native` `React` `Spring Boot` `PostgreSQL` `Docker` `Git` `Linux` `Make` `Unity`
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/lahermaciel/
