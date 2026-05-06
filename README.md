@@ -1,5 +1,3 @@
-# Hi, I'm Laher
-
 ## About Me
 
 - Looking for a software engineering internship
