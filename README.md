@@ -40,3 +40,8 @@
 Languages: `C` `C++` `C#` `Java` `Python` `TypeScript`<br>
 Frameworks: `React Native` `React` `Spring Boot` `Unity`<br>
 Tools: `PostgreSQL` `Docker` `Git` `Linux`
+
+## Contact
+- Email: Laherwpayotmaciel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lahermaciel/
+- Discord: laher_maciel
