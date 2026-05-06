@@ -1,10 +1,5 @@
 # Hi, I'm Laher
 
-Computer Engineering Student <br>
-42 Lisboa Student
-
----
-
 ## About Me
 
 - Looking for a software engineering internship
@@ -47,9 +42,3 @@ Computer Engineering Student <br>
 Languages: `C` `C++` `C#` `Java` `Python` `TypeScript`<br>
 Frameworks: `React Native` `React` `Spring Boot` `Unity`<br>
 Tools: `PostgreSQL` `Docker` `Git` `Linux`
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/lahermaciel/
