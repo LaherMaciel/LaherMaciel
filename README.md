@@ -7,7 +7,6 @@ Computer Engineering Student
 
 ## About Me
 
-- Based in Lisbon, Portugal
 - Looking for a software engineering internship
 
 ---
