@@ -1,6 +1,6 @@
 # Hi, I'm Laher
 
-Computer Engineering Student
+Computer Engineering Student <br>
 42 Lisboa Student
 
 ---
@@ -44,8 +44,8 @@ Computer Engineering Student
 
 ## Stack
 
-Languages: `C` `C++` `C#` `Java` `Python` `TypeScript`
-Frameworks: `React Native` `React` `Spring Boot` `Unity`
+Languages: `C` `C++` `C#` `Java` `Python` `TypeScript`<br>
+Frameworks: `React Native` `React` `Spring Boot` `Unity`<br>
 Tools: `PostgreSQL` `Docker` `Git` `Linux`
 
 ---
