@@ -14,7 +14,7 @@ Computer Engineering Student <br>
 ## Projects
 
 <details>
-<summary>42 Lisboa Projects</summary>
+<summary>##42 School Projects</summary>
 
 | Project | Description | Language | Status | Grade |
 |---|---|---|---|---|
