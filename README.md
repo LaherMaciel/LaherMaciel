@@ -1,60 +1,47 @@
-## Laher Maciel
+## About Me
 
-**Systems programmer · C / C++ from scratch · Software Engineering student at [42 Lisboa](https://42lisboa.com)**
-
-42 is a rigorous, project-based engineering school — no lectures, no ready-made frameworks, every project built from the ground up and evaluated by peers under real constraints. My focus is low-level systems: memory, processes, threads, and how things actually work beneath the OS.
-
-Off the keyboard: former **national karting champion of Mozambique** and the first Mozambican to race the FIA Karting Academy Trophy. Racing taught me that preparation decides the result — you don't improvise at 100 km/h. I bring the same principle to engineering.
+- Looking for a software engineering internship
 
 ---
 
-### Featured work
-
-| Project | What it is | Language | Score |
-|---|---|---|---|
-| [Minishell](https://github.com/LaherMaciel/Minishell) | A Bash-like shell built from scratch — parsing, pipes, redirections, heredocs, signals, builtins | C | **101 / 100** |
-| [Philosophers](https://github.com/LaherMaciel/Philosophers) | The Dining Philosophers problem — deadlock- and starvation-free concurrency with threads & mutexes | C | **100 / 100** |
-| [cub3d](https://github.com/LaherMaciel/cub3d) | A 3D raycasting engine (Wolfenstein-style) — DDA algorithm, texture mapping, real-time rendering | C | **110 / 100** |
-| [push_swap](https://github.com/LaherMaciel/push_swap) | Sorting a stack in the minimum number of operations — algorithmic complexity | C | **123 / 100** |
-| [get_next_line](https://github.com/LaherMaciel/get_next_line) | Reading a file descriptor one line at a time — static state & buffer management | C | **125 / 100** |
-
-> At 42, scores above 100 come from implementing bonus features beyond the requirements.
+## Projects
 
 <details>
-<summary>More 42 projects</summary>
+<summary><h3>42 Lisboa Projects</h3></summary>
 
-| Project | Description | Language | Score |
-|---|---|---|---|
-| [libft](https://github.com/LaherMaciel/libft) | Reimplementation of C standard-library functions + custom utilities | C | Completed |
-| [ft_printf](https://github.com/LaherMaciel/ft_printf) | `printf` rebuilt with variadic functions | C | 100 / 100 |
-| [pipex](https://github.com/LaherMaciel/pipex) | Recreating the shell pipe operator | C | 100 / 100 |
-| [so_long](https://github.com/LaherMaciel/so_long) | 2D game built with MiniLibX | C | Completed |
-| Born2BeRoot | System administration & virtualization | Shell | Completed |
-| [NetPractice](https://github.com/LaherMaciel/NetPractice) | TCP/IP networking & subnetting | — | Completed |
-| [CPP](https://github.com/LaherMaciel/CPP) | C++ modules — OOP, inheritance, polymorphism, exceptions | C++ | In progress |
+| Project | Description | Language | Status | Grade |
+|---|---|---|---|---|
+| [libft](https://github.com/LaherMaciel/libft) | Custom implementation of the C standard library | C | Completed | 100% |
+| [ft_printf](https://github.com/LaherMaciel/ft_printf) | Recreation of printf with variadic functions | C | Completed | 100% |
+| [get_next_line](https://github.com/LaherMaciel/get_next_line) | Function to read a file line by line | C | Completed | 125% |
+| [Born2BeRoot] | System administration and virtualization | Shell | Completed | 100% |
+| [push_swap](https://github.com/LaherMaciel/push_swap) | Sorting algorithm using stacks | C | Completed | 123% |
+| [so_long](https://github.com/LaherMaciel/so_long) | Small 2D game using minilibx | C | Completed | 107% |
+| [pipex](https://github.com/LaherMaciel/pipex) | Unix pipe behaviour reimplementation | C | Completed | 100% |
+| [Minishell](https://github.com/LaherMaciel/Minishell) | Custom Unix shell built from scratch | C | Completed | 101% |
+| [Philosophers](https://github.com/LaherMaciel/Philosophers) | Concurrency with threads and mutexes | C | Completed | 100% |
+| [NetPractice](https://github.com/LaherMaciel/NetPractice) | Networking and subnetting exercises | — | Completed | 100% |
+| [cub3d](https://github.com/LaherMaciel/cub3d) | Raycasting 3D engine, Wolfenstein-style | C | Completed | 110% |
+| [CPP](https://github.com/LaherMaciel/CPP) | Object-oriented programming modules | C++ | Building | ...% |
 
 </details>
 
----
+### Personal Projects
 
-### Currently
-
-Working through the 42 C++ modules — OOP, inheritance, polymorphism, exception handling — and building toward webserv.
-
-Also designing **LexMoz** — a legal-intelligence platform to make Mozambican law searchable, current, and accessible on mobile. Currently at the architecture and design stage; the build has not yet started.
-
-And with a small team, building **Brillo** — an indie game in Unity / C#, in development.
-
-### Skills
-
-- **Languages I build in:** C (advanced), C++ (intermediate)
-- **Foundation:** Java (academic — ISCTEM Computer Engineering)
-- **Environment & tools:** Linux / Unix, Git, Make, Valgrind, GDB
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| LexMoz | Legal intelligence platform for Mozambique | Java, Spring Boot, PostgreSQL, React Native, Python, TypeScript, Docker | In development |
+| Brillo | Indie game — collaborative team project | Unity, C# | In development |
 
 ---
 
-### Contact
+## Stack
 
-- **Email:** Laherwpayotmaciel@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/lahermaciel/
-- **Discord:** laher_maciel
+Languages: `C` `C++` `C#` `Java` `Python` `TypeScript`<br>
+Frameworks: `React Native` `React` `Spring Boot` `Unity`<br>
+Tools: `PostgreSQL` `Docker` `Git` `Linux`
+
+## Contact
+- Email: Laherwpayotmaciel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lahermaciel/
+- Discord: laher_maciel
