@@ -29,6 +29,7 @@ Off the keyboard: former **national karting champion of Mozambique** and the fir
 | [ft_printf](https://github.com/LaherMaciel/ft_printf) | `printf` rebuilt with variadic functions | C | 100 / 100 |
 | [pipex](https://github.com/LaherMaciel/pipex) | Recreating the shell pipe operator | C | 100 / 100 |
 | [so_long](https://github.com/LaherMaciel/so_long) | 2D game built with MiniLibX | C | Completed |
+| Born2BeRoot | System administration & virtualization | Shell | Completed |
 | [NetPractice](https://github.com/LaherMaciel/NetPractice) | TCP/IP networking & subnetting | — | Completed |
 | [CPP](https://github.com/LaherMaciel/CPP) | C++ modules — OOP, inheritance, polymorphism, exceptions | C++ | In progress |
 
@@ -38,9 +39,11 @@ Off the keyboard: former **national karting champion of Mozambique** and the fir
 
 ### Currently
 
-Working through the 42 C++ modules (CPP00–05 done: OOP, inheritance, polymorphism, exception handling) and building toward webserv.
+Working through the 42 C++ modules — OOP, inheritance, polymorphism, exception handling — and building toward webserv.
 
 Also designing **LexMoz** — a legal-intelligence platform to make Mozambican law searchable, current, and accessible on mobile. Currently at the architecture and design stage; the build has not yet started.
+
+And with a small team, building **Brillo** — an indie game in Unity / C#, in development.
 
 ### Skills
 
@@ -53,4 +56,5 @@ Also designing **LexMoz** — a legal-intelligence platform to make Mozambican l
 ### Contact
 
 - **Email:** Laherwpayotmaciel@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/laher-maciel-8483a4253/
+- **LinkedIn:** https://www.linkedin.com/in/lahermaciel/
+- **Discord:** laher_maciel
