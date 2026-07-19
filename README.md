@@ -1,48 +1,56 @@
-## Hi, I'm Laher Maciel 👋
+## Laher Maciel
 
-Systems-focused software engineer training at **42 Lisboa** — I build in **C and C++ from scratch**: memory management, processes, threads, signals, and a full shell — no frameworks hiding the machine.
+**Systems programmer · C / C++ from scratch · Software Engineering student at [42 Lisboa](https://42lisboa.com)**
 
-Former **national karting champion of Mozambique**. Racing taught me that preparation decides the result — you can't improvise at 100 km/h. I bring the same discipline to engineering: understand the problem completely, build it correctly, test it hard.
+42 is a rigorous, project-based engineering school — no lectures, no ready-made frameworks, every project built from the ground up and evaluated by peers under real constraints. My focus is low-level systems: memory, processes, threads, and how things actually work beneath the OS.
 
----
-
-### What is 42?
-
-42 Lisboa is a rigorous, project-based engineering school: every project is built from scratch under real constraints and defended in live peer evaluation — no lectures, no black boxes. It produces engineers who can learn and deliver independently.
+Off the keyboard: former **national karting champion of Mozambique** and the first Mozambican to race the FIA Karting Academy Trophy. Racing taught me that preparation decides the result — you don't improvise at 100 km/h. I bring the same principle to engineering.
 
 ---
 
-### Selected 42 projects
+### Featured work
 
 | Project | What it is | Language | Score |
 |---|---|---|---|
-| [Minishell](https://github.com/LaherMaciel/Minishell) | A bash-like shell — parsing, pipes, redirections, signals, builtins | C | 101/100 (bonus) |
-| [Philosophers](https://github.com/LaherMaciel/Philosophers) | Dining Philosophers — threads, mutexes, deadlock-free concurrency | C | 100/100 |
-| [cub3d](https://github.com/LaherMaciel/cub3d) | Raycasting 3D engine (Wolfenstein-style) — DDA, texture mapping | C | 110/100 (bonus) |
-| [push_swap](https://github.com/LaherMaciel/push_swap) | Sort a stack in the fewest operations — algorithmic complexity | C | 123/100 (bonus) |
-| [get_next_line](https://github.com/LaherMaciel/get_next_line) | Read a file descriptor line by line — static buffers, multi-fd | C | 125/100 (bonus) |
-| [CPP](https://github.com/LaherMaciel/CPP) | C++ modules — OOP, inheritance, polymorphism, exceptions | C++ | — |
-| [NetPractice](https://github.com/LaherMaciel/NetPractice) | TCP/IP addressing, subnetting, routing | — | ✔ |
+| [Minishell](https://github.com/LaherMaciel/Minishell) | A Bash-like shell built from scratch — parsing, pipes, redirections, heredocs, signals, builtins | C | **101 / 100** |
+| [Philosophers](https://github.com/LaherMaciel/Philosophers) | The Dining Philosophers problem — deadlock- and starvation-free concurrency with threads & mutexes | C | **100 / 100** |
+| [cub3d](https://github.com/LaherMaciel/cub3d) | A 3D raycasting engine (Wolfenstein-style) — DDA algorithm, texture mapping, real-time rendering | C | **110 / 100** |
+| [push_swap](https://github.com/LaherMaciel/push_swap) | Sorting a stack in the minimum number of operations — algorithmic complexity | C | **123 / 100** |
+| [get_next_line](https://github.com/LaherMaciel/get_next_line) | Reading a file descriptor one line at a time — static state & buffer management | C | **125 / 100** |
 
-Scores above 100 come from correctly implemented bonus work.
+> At 42, scores above 100 come from implementing bonus features beyond the requirements.
+
+<details>
+<summary>More 42 projects</summary>
+
+| Project | Description | Language | Score |
+|---|---|---|---|
+| [libft](https://github.com/LaherMaciel/libft) | Reimplementation of C standard-library functions + custom utilities | C | Completed |
+| [ft_printf](https://github.com/LaherMaciel/ft_printf) | `printf` rebuilt with variadic functions | C | 100 / 100 |
+| [pipex](https://github.com/LaherMaciel/pipex) | Recreating the shell pipe operator | C | 100 / 100 |
+| [so_long](https://github.com/LaherMaciel/so_long) | 2D game built with MiniLibX | C | Completed |
+| [NetPractice](https://github.com/LaherMaciel/NetPractice) | TCP/IP networking & subnetting | — | Completed |
+| [CPP](https://github.com/LaherMaciel/CPP) | C++ modules — OOP, inheritance, polymorphism, exceptions | C++ | In progress |
+
+</details>
 
 ---
+
+### Currently
+
+Working through the 42 C++ modules (CPP00–05 done: OOP, inheritance, polymorphism, exception handling) and building toward webserv.
+
+Also designing **LexMoz** — a legal-intelligence platform to make Mozambican law searchable, current, and accessible on mobile. Currently at the architecture and design stage; the build has not yet started.
 
 ### Skills
 
-**Languages:** C (advanced) · C++ (intermediate) · Java (academic foundation)
-**Systems:** manual memory management · processes (fork / exec / pipes / signals) · concurrency (threads, mutexes, deadlock) · Unix/Linux internals
-**Tooling:** Git · GNU/Linux · Valgrind · GDB · Make
-
----
-
-### Also building — LexMoz
-
-A legal-intelligence platform to make Mozambican law searchable, always current, and available on mobile — a real product for a real gap, not a portfolio exercise. Currently in design. *(Private, pre-launch.)*
+- **Languages I build in:** C (advanced), C++ (intermediate)
+- **Foundation:** Java (academic — ISCTEM Computer Engineering)
+- **Environment & tools:** Linux / Unix, Git, Make, Valgrind, GDB
 
 ---
 
 ### Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/laher-maciel-8483a4253/
 - **Email:** Laherwpayotmaciel@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/laher-maciel-8483a4253/
